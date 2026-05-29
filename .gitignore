@@ -1,0 +1,11 @@
+# Compiled output
+*.exe
+*.o
+*.out
+ 
+# VSCode settings
+.vscode/
+ 
+# macOS
+.DS_Store
+ 
