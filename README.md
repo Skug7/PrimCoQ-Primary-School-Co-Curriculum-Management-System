@@ -1,6 +1,6 @@
 # PrimCoQ — Primary School Co-Curriculum Management System
 
-> TMF1434 Data Structures & Algorithms — Group Project (30%)  
+> TMF1434 Data Structures & Algorithms 
 > Universiti Malaysia Sarawak (UNIMAS)
 
 ---
